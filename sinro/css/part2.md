@@ -132,7 +132,7 @@ margin + width + margin
 
 负边距margin示意图
 
-![http://wangyan.org/pic/m/margin.PNG](vv)
+![vv](http://wangyan.org/pic/m/margin.PNG)
 
 ##五、两列宽度自适应结构
 
