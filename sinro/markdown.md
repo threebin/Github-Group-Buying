@@ -1,6 +1,8 @@
  
 # Hire Guru
 
+![shengpay](https://ebinfonew.sdo.com/ScoreCenter/jfsdocom2009/gg/banner03_phone.jpg)
+
 ## [背景题目](https://www.shengpay.com/)
 
 #### 1. 用所学的 HTML + CSS 重构上述 URL 页面
